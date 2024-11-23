@@ -1,7 +1,5 @@
 # Seja Bem-vindo(a)! :blush:
 
-Meu nome é Neuany Santos, sou apaixonada pelo potencial transformador da tecnologia na vida das pessoas.
-No momento, estou seguindo com entusiasmo a minha paixão pela tecnologia ao cursar o bacharelado em Engenharia de Software. Além dos meus estudos acadêmicos, estou concentrada no aprimoramento das habilidades em desenvolvimento backend, com foco especial em Javascript.
 
 ### Hards Skills:
 
